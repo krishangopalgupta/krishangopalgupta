@@ -1,6 +1,5 @@
-### Hi there 👋
-<h4>Hi 👋 there my name is, </h4><b> <h2> Krishan Gopal Gupta 🧑‍</b> <br/>
-I'm a Web Developer 
+### Hi there 👋 my name is <b> Krishan Gopal Gupta 🧑‍</b> <br/>
+### I'm a Web Developer 
 
 -🔭 I’m currently working on my project <br/> <br/>
 <a href="https://twitter.com/@Krishan20445072" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishan" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/krishan-gopal-gupta/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishan-gopal-gupta" height="30" width="40" /></a>
