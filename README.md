@@ -6,7 +6,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img height =50 src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" /><img src = "https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" height="50"> <br/> <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kris2443)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishangopalgupta)](https://git.io/streak-stats)
+
 
 <details>
 <summary>More Skills</summary>
