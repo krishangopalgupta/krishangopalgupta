@@ -1,4 +1,4 @@
-### Hi there 👋 my name is <b> Krishan Gopal Gupta 🧑‍</b> <br/>
+# Hi there 👋 my name is <b> Krishan Gopal Gupta 🧑‍</b> <br/>
 ### I'm a Web Developer 
 
 -🔭 I’m currently working on my project <br/> <br/>
